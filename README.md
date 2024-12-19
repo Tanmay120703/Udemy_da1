@@ -57,6 +57,8 @@ Price distribution
 
 ● p2.ipynb: The Jupyter Notebook containing all the code and analysis.
 
+● udemy_courses.csv: The dataset used for the analysis.
+
 # Results
 
 ● The analysis highlights trends in course pricing, subject popularity, and content distribution. These insights can help course creators and learners better understand the Udemy platform.
